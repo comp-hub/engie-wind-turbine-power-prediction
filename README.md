@@ -48,3 +48,11 @@ The file 'output_training.csv' contains the target variable or Y variable for ea
 Using the file 'input_testing.csv', the participants must provide a file 'output_testing.csv' in the same format as the file 'output_training.csv' (associating with each ID number, the predicted active power).
 
 The metric used in this challenge to designate the winning participant is the mean absolute error (MAE), see https://en.wikipedia.org/wiki/Mean_absolute_error.
+
+## Target Scores
+Highest = 15.0735
+Lowest =  101.683
+
+## Github
+
+Create a branch and open a pull request.
